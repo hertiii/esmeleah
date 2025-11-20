@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Découvre mon Threads</title>
-  <!-- Redirection auto après 3 s vers le vrai lien -->
+  <title>Discover my Threads</title>
+  <!-- Auto redirect after 3 seconds to the actual link -->
   <meta http-equiv="refresh" content="3;url=https://getmysocial.com/esmeleahhry">
   <style>
     body {
@@ -30,17 +30,17 @@
   </style>
 </head>
 <body>
-  <h1>Avant de continuer…</h1>
-  <p>Viens me suivre sur Threads :</p>
+  <h1>Before you continue…</h1>
+  <p>Come follow me on Threads:</p>
   <p>
-    <a href="[https://www.threads.com/@peytonspirs]" target="_blank" rel="noopener">
-      Voir mon profil Threads
+    <a href="https://www.threads.com/@peytonspirs" target="_blank" rel="noopener">
+      See my Threads profile
     </a>
   </p>
   <p style="margin-top:20px;">
-    Tu seras automatiquement redirigé(e) dans 3 secondes…<br>
-    Sinon, clique ici :
-    <a href="https://getmysocial.com/esmeleahhry">Continuer vers le lien</a>
+    You will be automatically redirected in 3 seconds…<br>
+    Otherwise, click here:
+    <a href="https://getmysocial.com/esmeleahhry">Redirect</a>
   </p>
 </body>
 </html>
